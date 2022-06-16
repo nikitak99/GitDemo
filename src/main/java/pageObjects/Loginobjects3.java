@@ -24,4 +24,14 @@ public class Loginobjects3 {
 		System.out.println("Click on forgot password");
 	}
 	
+	public void develop1() {
+
+		System.out.println("Develop branch1");
+	}
+	
+	public void develop2() {
+
+		System.out.println("Develop branch2");
+	}
+	
 }

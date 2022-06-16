@@ -48,6 +48,15 @@ public class Homeobjects {
 	}
 	
 	
+	public void develop1() {
+
+		System.out.println("Develop branch1");
+	}
+	
+	public void develop2() {
+
+		System.out.println("Develop branch2");
+	}
 	
 
 
