@@ -59,12 +59,12 @@ public class Homeobjects {
 	}
 	
 	
-	public void develop1() {
+	public void develop3() {
 
 		System.out.println("Develop branch1");
 	}
 	
-	public void develop3() {
+	public void develop4() {
 
 		System.out.println("Develop branch3");
 	}
